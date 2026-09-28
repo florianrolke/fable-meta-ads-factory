@@ -1,3 +1,5 @@
+> **This repository has moved.** It now lives in the folder [`fable-meta-ads-factory`](https://github.com/florianrolke/community-resources/tree/main/fable-meta-ads-factory) of [florianrolke/community-resources](https://github.com/florianrolke/community-resources), together with all of Florian Rolke's community resources. This copy is archived (read-only) and stays online so existing links keep working. New fixes and updates happen in community-resources.
+
 # Fable Meta Ads Factory
 
 **How I built a complete Meta lead-ads campaign — 15 ad concepts, generated creatives, a compliance
